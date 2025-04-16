@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="150" height="150"/>
-  <h1>Jendro</h1>
+  <h1>Jendro Purnomo</h1>
   <p>🚀 Full Stack Developer • Tech Enthusiast • Problem Solver</p>
 </div>
 
