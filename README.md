@@ -57,13 +57,6 @@ const myTechStack = {
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jendro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jendro&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
